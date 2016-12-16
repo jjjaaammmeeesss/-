@@ -1,0 +1,8 @@
+title: Food-psychology
+description: Explore  a most delicious meal with psychology
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-leap-day
+
+gems:
+  - jekyll-mentions
